@@ -10,11 +10,17 @@ the experiment. High quality visualization of the internal kernel structure was 
 To construct the data, seven geometric parameters of wheat kernels were measured:
 
 area A,
+
 perimeter P,
+
 compactness C = 4piA/P^2,
+
 length of kernel,
+
 width of kernel,
-asymmetry coefficient
+
+asymmetry coefficient,
+
 length of kernel groove.
 
 source: https://www.kaggle.com/datasets/dongeorge/seed-from-uci
